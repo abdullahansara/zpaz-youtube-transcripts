@@ -19,5 +19,7 @@ Raw, unmodified auto-generated Persian captions (WebVTT), plus a plain-text vers
 - **WebVTT rolling-caption format.** Each cue repeats the previous line and carries word-level timing tags (`<00:00:17.840><c> ...</c>`), so the same text appears several times. Non-speech tags such as `[موسیقی]` (music) are included.
 - **Repeated content.** The programme replays clips and recaps between episodes, and at least three videos are exact re-uploads of other videos in this set (identical title and text). Nothing was removed.
 
-## Rights
-The programme and its captions derive from IRIB broadcasts and the YouTube channel. Rights remain with their owners. This repository only collects the publicly available caption files for research. Check the licence situation before redistributing or making the repository public.
+## Rights and licence
+The compiler dedicates this compilation to the public domain under [CC0 1.0](LICENSE): the selection and arrangement of the files, `metadata.csv`, `SHA256SUMS.txt`, the plain-text conversion and this README. Anyone may copy, modify and reuse them without asking permission or giving credit.
+
+The dedication covers only the compiler's own rights. The captions are automatic speech-recognition output of IRIB broadcasts published on a YouTube channel, and the compiler cannot waive rights that other parties may hold in the programme itself. The files are shared as publicly available research data.
